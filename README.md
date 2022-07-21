@@ -1,3 +1,5 @@
+#简介
+其中ConstParameters.py存储sm3常量 main.py实现sm3以及Rho攻击
 # sm3_Rho_Attack
 首先是成环的过程，这里的f函数用的并不复杂为2*x+1
 # 实验结果
